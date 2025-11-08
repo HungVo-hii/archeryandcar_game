@@ -617,9 +617,8 @@ Screen để kết thúc game.
 
 #include \"view_render.h\"
 
-#define SCREEN_WIDTH 128
+#define SCREEN_WIDTH 128VEL_4 cg_game_car_handle
 
-#define SIZE_BITMAP_OBSTACLE_X 18
 
 #define SIZE_BITMAP_OBSTACLE_Y 18
 
